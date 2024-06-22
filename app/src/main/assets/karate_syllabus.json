@@ -1,0 +1,244 @@
+[
+  {
+    "grade": "9th kyu",
+    "beltColour": "#CC0000",
+    "basics": [
+      "FORWARDS ONLY FIVE TIMES WITH KIAI ON 5:",
+      "AGE - UKE",
+      "SOTO – UKE",
+      "UCHI – UKE",
+      "GEDAN – BARAI",
+      "OI – ZUKI"
+    ],
+    "kicks": [
+      "MAI – GERI (FORWARDS)",
+      "KIAGI (IN KIBA DACHI)"
+    ],
+    "kata": [
+      "KIHON"
+    ],
+    "kumite": [
+      "GOHON (FIVE STEP)",
+      "ATTACK: JODAN, CHUDAN, CHUDAN",
+      "DEFEND:AGE – UKE, UCHI – UKE, SOTO - UKE"
+    ],
+    "combinations": [""]
+  },
+  {
+    "grade": "8th kyu",
+    "beltColour": "#FF9800",
+    "basics": [
+      "FORWARDS AND BACK:",
+      "OI – ZUKI",
+      "AGE - UKE",
+      "SOTO – UKE",
+      "UCHI – UKE",
+      "GEDAN – BARAI",
+      "SHUTO - UKE"
+    ],
+    "kicks": [
+      "MAI – GERI (ZEN KUTSO DACHI)",
+      "KIAGI (KIBA DACHI)",
+      "KEKOMI (KIBA DACHI)"
+    ],
+    "kata": [
+      "HEIAN SHODAN",
+      "KIHON"
+    ],
+    "kumite": [
+      "GOHON (FIVESTEP)",
+      "ATTACK: JODAN, CHUDAN, CHUDAN, MAI – GERI",
+      "DEFEND: AGE – UKE, UCHI – UKE, SOTO – UKE, GEDAN – BARAI"
+    ],
+    "combinations": ["UCHI - UKE F/S, EMPI IN KIBA DACHI"]
+  },
+  {
+    "grade": "7th kyu",
+    "beltColour": "#FFEB3B",
+    "basics": [
+      "FORWARDS:",
+      "AGE – UKE, GYAKA - ZUKI",
+      "1. AGE – UKE, GYAKA - ZUKI",
+      "1. AGE – UKE, GYAKA - ZUKI"
+    ],
+    "kicks": [
+      "MAI – GERI",
+      "KIAGI",
+      "KEKOMI (ZENKUTSU - DACHI)",
+      "MAWASHI – GERI"
+    ],
+    "kata": [
+      "HEIAN NIDAN",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "IPPON (LEFT AND RIGHT SIDES)",
+      "ATTACK: JODAN, CHUDAN, CHUDAN, MAI - GERI",
+      "DEFEND: AGE – UKE, UCHI – UKE, SOTO – UKE, GEDAN BARAI"
+    ],
+    "combinations": ["UCHI – UKE, EMPI (FORWARDS AND BACK)"]
+  },
+  {
+    "grade": "6th kyu",
+    "beltColour": "#4CAF50",
+    "basics": [
+      "FORWARDS AND BACK:",
+      "AGE – UKE, GYAKA - ZUKI",
+      "UCHI – UKE, GYAKA – ZUKI",
+      "SHUTO – UKE, NUKITE"
+    ],
+    "kicks": [
+      "MAI – GERI CHUDAN",
+      "MAI – GERI JODAN",
+      "MAI – GERI, MAWASHI GERI",
+      "MAI – GERI, KEKOMI",
+      "USHIRO – GERI"
+    ],
+    "kata": [
+      "HEIAN SANDAN",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "IPPON (ONE STEP)",
+      "ATTACK: JODAN, CHUDAN, CHUDAN, MAI GERI, KEKOMI GERI",
+      "DEFEND: AGE – UKE, UCHI – UKE, SOTO – UKE, GEDAN BARAI"
+    ],
+    "combinations": ["UCHI – UKE, EMPI, URAKEN"]
+  },
+  {
+    "grade": "5th kyu",
+    "beltColour": "#673AB7",
+    "basics": [
+      "FORWARDS AND BACK:",
+      "AGE – UKE, GYAKA – ZUKI, GEDAN - BARAI",
+      "UCHI – UKE, GYAKA – ZUKI, GEDAN - BARAI",
+      "SHUTO – UKE, F/L MAI - GERI, GYAKA - ZUKI",
+      "SHUTO – UKE, F/L MAWASHI - GERI, NUKITE"
+    ],
+    "kicks": [
+      ""
+    ],
+    "kata": [
+      "HEIAN YONDAN",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "IPPON (ONE STEP) FULL SEQUENCE BOTH SIDES",
+      "JODAN, CHUDAN, CHUDAN, MAI GERI, KEKOMI GERI,MAWASHI GERI, USHIRO GERI"
+    ],
+    "combinations": [""]
+  },
+  {
+    "grade": "4th kyu",
+    "beltColour": "#2242E3",
+    "basics": [
+      "UCHI – UKE, KISAMA – ZUKI, GYAKA - ZUKI",
+      "MAI – GERI, KISAMA – ZUKI, GYAKA - ZUKI",
+      "KEKOMI, URAKEN, GYAKA - ZUKI",
+      "MAWASHI- GERI, URAKEN, GYAKA - ZUKI",
+      "USHIRO – GERI, URAKEN, GYAKA – ZUKI",
+      "URA – MAWASHI –GERI, URAKEN, GYAKA – ZUKI"
+    ],
+    "kicks": [
+      ""
+    ],
+    "kata": [
+      "HEIAN GODAN",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "IPPON (ONE STEP) FULL SEQUENCE BOTH SIDES, ANY BLOCK",
+      "JODAN, CHUDAN, CHUDAN, MAI GERI, KEKOMI GERI, MAWASHI GERI, USHIRO GERI"
+    ],
+    "combinations": ["SHUTO F/B, MAI – GERI F/L, KEKOMI B/L, URAKEN, GYAKA- ZUKI"]
+  },
+  {
+    "grade": "3rd kyu",
+    "beltColour": "#964B00",
+    "basics": [
+      "OI – ZUKI, S/B AGE - UKE, MAI - GERI, GYAKA – ZUKI",
+      "OI – ZUKI, S/B UCHI - UKE, MAI - GERI, GYAKA – ZUKI",
+      "OI – ZUKI, S/B SHUTO, F/L MAWASHI, OI – ZUKI",
+      "OI – ZUKI, S/B SHUTO, F/L KEKOMI, OI – ZUKI",
+      "OI – ZUKI, S/B UCHI - UKE (SLIDE BACK GEDAN BARAI) F/L KEKOMI,URAKEN, GYAKA - ZUKI",
+      "MAWASHI – GERI, USHIRO – MAWASHI -GERI,URAKEN, GYAKA – ZUKI"
+    ],
+    "kicks": [
+      "BALANCE KICKS:",
+      "3- KICKS ON EACH LEG STANDING STILL 5 TIMES",
+      "MAI – GERI(FRONT), KEKOMI(SIDE), USHIRO-GERI(BACK)"
+    ],
+    "kata": [
+      "TEKKI – SHODAN",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "IPPON (ONE STEP) FULL SEQUENCE BOTH SIDES, ANY BLOCK",
+      "JYU - IPPON (SEMI - FREE) FULL SEQUENCE, BOTH SIDES, ANY BLOCK"
+    ],
+    "combinations": [""]
+  },
+  {
+    "grade": "2nd kyu",
+    "beltColour": "#964B00",
+    "basics": [
+      "MAI – GERI, KISAMA-ZUKI, GYAKA – ZUKI",
+      "MAWASHI-GERI, URAKEN, GYAKA – ZUKI",
+      "KEKOMI, URAKEN, GYAKA – ZUKI"
+    ],
+    "kicks": [
+      "BALANCE KICKS:",
+      "3 KICKS ON EACH LEG STANDING STILL 5 TIMES",
+      "MAI – GERI(FRONT), KEKOMI(SIDE), USHIRO-GERI(BACK)"
+    ],
+    "kata": [
+      "BASSAI – DAI",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "JYU - IPPON (SEMI - FREE) FULL SEQUENCE BOTH SIDES, ANY BLOCK",
+      "SHOBON-IPPON KUMITE (FREE-STYLE)"
+    ],
+    "combinations": [
+      "MAI – GERI, KEKOMI, URAKEN , GYAKA – ZUKI",
+      "MAI – GERI, MAWASHI, URAKEN, GYAKA – ZUKI",
+      "MAI – GERI, USHIRO - GERI, URAKEN, GYAKA – ZUKI",
+      "OI – ZUKI, SPIN TETSUI, F/L KEKOMI, GYAKA – ZUKI",
+      "OI – ZUKI, S/B SHUTO, USHIRO – GERI",
+      "MAI – GERI, KEKOMI, MAWASHI-GERI, USHIRO – GERI, URA – MAWASHI-GERI, USHIRO – MAWASHI-GERI"
+    ]
+  },
+  {
+    "grade": "1st kyu",
+    "beltColour": "#964B00",
+    "basics": [
+      "MAI – GERI, KISAMA-ZUKI, GYAKA – ZUKI",
+      "MAWASHI-GERI, URAKEN, GYAKA – ZUKI",
+      "KEKOMI, URAKEN, GYAKA – ZUKI",
+      "USHIRO – GERI, URAKEN, GYAKA – ZUKI",
+      "MAI – GERI, MAWASHI-GERI, URAKEN, GYAKA – ZUKI",
+      "MAI – GERI, KEKOMI, URAKEN, GYAKA – ZUKI"
+    ],
+    "kicks": [
+      "BALANCE KICKS:",
+      "3 KICKS ON EACH LEG STANDING STILL, 5 TIMES",
+      "MAI – GERI(FRONT), KEKOMI(SIDE), USHIRO-GERI(BACK)"
+    ],
+    "kata": [
+      "EMPI",
+      "1 OTHER OF EXAMINERS CHOICE"
+    ],
+    "kumite": [
+      "JYU - IPPON (SEMI - FREE) FULL SEQUENCE BOTH SIDES, ANY BLOCK",
+      "SHOBON-IPPON KUMITE (FREE-STYLE)"
+    ],
+    "combinations": [
+      "AGE – UKE, MAI – GERI, GYAKA – ZUKI, S/B GEDAN – BARAI",
+      "SOTO – UKE, MAI GERI, GYAKA – ZUKI, S/B GEDAN – BARAI",
+      "SHUTO – UKE, F/L KEKOMI, URAKEN, GYAKA – ZUKI",
+      "USHIRO – GERI, URA – MAWASHI-GERI AND MAWASHI – GERI S/L",
+      "(S/F) UCHI – UKE, (S/B) UCHI – UKE, MAI – GERI, KISAMA – ZUKI,GYAKA – ZUKI, (S/B) GEDAN – BARAI, MAWASHI – GERI, URAKEN,GYAKA – ZUKI.",
+      "MAI – GERI, KEKOMI, MAWASHI-GERI, USHIRO – GERI,URA –MAWASHI-GERI, USHIRO – MAWASHI-GERI"
+    ]
+  }
+]
